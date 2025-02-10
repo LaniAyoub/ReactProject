@@ -1,0 +1,35 @@
+{
+    "articles": [
+      {
+        "title": "Global Warming: A Growing Concern",
+        "description": "Global warming is increasingly becoming a major concern. Scientists are warning about the rising temperatures and their long-term effects.",
+        "topics": ["Climate Change", "Environment", "Global Warming"],
+        "key_points": [
+          "Rising temperatures are causing ice caps to melt.",
+          "Extreme weather events are becoming more frequent.",
+          "Global temperatures have risen by 1.2°C since the 19th century."
+        ]
+      },
+      {
+        "title": "Technology Advancements in 2025",
+        "description": "The year 2025 is expected to bring major technological advancements that could revolutionize industries and daily life.",
+        "topics": ["Technology", "Innovation", "2025 Predictions"],
+        "key_points": [
+          "Self-driving cars are expected to become mainstream.",
+          "AI will significantly impact healthcare and education.",
+          "The rise of renewable energy technologies."
+        ]
+      },
+      {
+        "title": "Space Exploration: New Horizons",
+        "description": "Space exploration is entering a new era, with missions planned to Mars and the Moon. The possibilities for human exploration beyond Earth are expanding.",
+        "topics": ["Space", "Mars Mission", "Space Exploration"],
+        "key_points": [
+          "NASA plans to send humans to Mars by the 2030s.",
+          "The Artemis program aims to return humans to the Moon by 2024.",
+          "Space tourism is expected to become a billion-dollar industry."
+        ]
+      }
+    ]
+  }
+  
